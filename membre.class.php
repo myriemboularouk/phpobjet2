@@ -17,7 +17,7 @@ class Membre
 	public function getPrenom()
 	{
 		return $this->prenom;
-	} 
+	}
 }
 
 $membre = new Membre('Marc');
